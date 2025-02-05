@@ -1,15 +1,32 @@
 # test
 This is a test file
-This is a test line of text to test user name config.
 
-# sample code
-This is a sample code
+# Markdown Cheat Sheet
+See this page for more
 
-```{bash}
-exec(open('c:/users/erose/repos/scripts/service_draft.py').read())
-drafts.draft_services(base_path)
-```
+https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 
-This is some sample text to test the connection.
+# Header 1
 
-test end
+'_Employee documentation for the City addressing process_
+
+- Address Requests
+- Address Notification'
+
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+
+
+#### Test End
