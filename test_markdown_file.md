@@ -1,5 +1,6 @@
 # test
 This is a test file
+This is a test line of text to test user name config.
 
 # sample code
 This is a sample code
